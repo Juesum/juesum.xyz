@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Your Name | Web3 Degen</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Hey, I’m YourName 👋</h1>
+    <p>Just a JPEG Monk meditating on the floor price 💸</p>
+    <a href="https://twitter.com/yourhandle" target="_blank">Follow me on X</a>
+  </div>
+</body>
+</html>
